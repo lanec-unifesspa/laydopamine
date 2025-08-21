@@ -1,0 +1,85 @@
+ID,Q2,Q3,Q4_Positive,Q4_Negative,Q5
+P1,Neurophysiology,Psychoactive substances,NA,NA,Influence from social practices and discourses
+P2,Neurophysiology,Healthy habits,Well-being,Pleasure,Habit control and lifestyle
+P3,Habits and behavior,Instant or easy rewards,Motivation and reward,NA,Self-knowledge and embodiment
+P3,Habits and behavior,Behavioral or environmental stimuli,Pleasure,NA,Self-knowledge and embodiment
+P4,Positive emotions,Physical exercise,Well-being,Disease,Self-knowledge and embodiment
+P5,NA,NA,NA,NA,NA
+P6,NA,Physical exercise,NA,NA,NA
+P7,Negative emotions,Behavioral or environmental stimuli,Pleasure,Distress,Self-knowledge and embodiment
+P7,Negative emotions,Instant or easy rewards,Pleasure,Distress,Self-knowledge and embodiment
+P8,Positive emotions,Healthy habits,Pleasure,NA,Habit control and lifestyle
+P8,Positive emotions,Healthy habits,Motivation and reward,NA,Habit control and lifestyle
+P9,NA,NA,Well-being,Addiction,Influence from social practices and discourses
+P10,Neurophysiology,Nutrition,Well-being,Disease,Self-knowledge and embodiment
+P10,Neurophysiology,Behavioral or environmental stimuli,Well-being,Disease,Self-knowledge and embodiment
+P11,Positive emotions,Behavioral or environmental stimuli,Well-being,Addiction,Habit control and lifestyle
+P12,NA,Behavioral or environmental stimuli,Well-being,Addiction,Addiction prevention
+P13,Health/disease,Healthy habits,Well-being,Distress,Self-knowledge and embodiment
+P14,Health/disease,Behavioral or environmental stimuli,Well-being,Distress,Benefits to health
+P15,Positive emotions,Physical exercise,Well-being,Distress,Self-knowledge and embodiment
+P15,Positive emotions,Physical exercise,Pleasure,Distress,Self-knowledge and embodiment
+P16,Addiction,NA,Pharmaceutical target,Distress,Benefits to health
+P17,Health/disease,Neutral or undecided,Motivation and reward,Distress,Self-knowledge and embodiment
+P18,Negative emotions,Nutrition,Motivation and reward,Obsession,Self-knowledge and embodiment
+P18,Negative emotions,Behavioral or environmental stimuli,Self-efficacy,Obsession,Self-knowledge and embodiment
+P19,Neurophysiology,Physical exercise,NA,NA,Self-knowledge and embodiment
+P20,Health/disease,Nutrition,Pleasure,Addiction,Habit control and lifestyle
+P20,Health/disease,Nutrition,Motivation and reward,Addiction,Habit control and lifestyle
+P21,NA,Neutral or undecided,Quality of life,Tolerance,Addiction prevention
+P22,Positive emotions,Physical exercise,Well-being,Addiction,Addiction prevention
+P22,Positive emotions,Behavioral or environmental stimuli,Well-being,Addiction,Addiction prevention
+P23,NA,Nutrition,Well-being,Addiction,Scientific information
+P23,NA,Behavioral or environmental stimuli,Motivation and reward,Addiction,Scientific information
+P24,Positive emotions,Behavioral or environmental stimuli,Well-being,Disease,Habit control and lifestyle
+P25,Neurophysiology,Behavioral or environmental stimuli,Well-being,Disease,Criticism to biological determinism
+P26,Negative emotions,Physical exercise,Motivation and reward,Disequilibrium,Self-knowledge and embodiment
+P26,Negative emotions,Nutrition,Motivation and reward,Disequilibrium,Self-knowledge and embodiment
+P26,Negative emotions,Behavioral or environmental stimuli,Motivation and reward,Disequilibrium,Self-knowledge and embodiment
+P27,Health/disease,Physical exercise,Well-being,Agitation,Self-knowledge and embodiment
+P27,Health/disease,Physical exercise,Motivation and reward,Agitation,Self-knowledge and embodiment
+P28,Cognition,Physical exercise,Well-being,Distress,Benefits to health
+P28,Cognition,Nutrition,Well-being,Distress,Benefits to health
+P28,Cognition,Behavioral or environmental stimuli,Well-being,Distress,Benefits to health
+P29,Neurophysiology,Behavioral or environmental stimuli,Pleasure,NA,Habit control and lifestyle
+P30,Cognition,Physical exercise,Well-being,Addiction,Criticism to biological determinism
+P30,Cognition,Nutrition,Well-being,Distress,Criticism to biological determinism
+P31,Positive emotions,Behavioral or environmental stimuli,Pleasure,Addiction,Habit control and lifestyle
+P31,Positive emotions,Physical exercise,Motivation and reward,Distress,Habit control and lifestyle
+P31,Positive emotions,Nutrition,Pleasure,Distress,Habit control and lifestyle
+P32,Habits and behavior,Healthy habits,Motivation and reward,Distress,Influence from social practices and discourses
+P33,Positive emotions,Nutrition,Motivation and reward,Tolerance,Self-knowledge and embodiment
+P34,Positive emotions,Behavioral or environmental stimuli,Motivation and reward,Distress,NA
+P35,Addiction,Behavioral or environmental stimuli,Motivation and reward,Addiction,Addiction prevention
+P35,Addiction,Physical exercise,Pleasure,Disease,Addiction prevention
+P35,Addiction,Nutrition,Pleasure,Addiction,Addiction prevention
+P36,Positive emotions,Physical exercise,NA,NA,NA
+P37,Social network use,Behavioral or environmental stimuli,Stress relief,NA,Habit control and lifestyle
+P38,Neurophysiology,Physical exercise,Well-being,Addiction,Self-knowledge and embodiment
+P39,Health/disease,Neutral or undecided,Motivation and reward,Addiction,Habit control and lifestyle
+P40,NA,Physical exercise,Motivation and reward,Addiction,Habit control and lifestyle
+P41,NA,Psychoactive substances,NA,Distress,Self-knowledge and embodiment
+P41,NA,Psychoactive substances,NA,Agitation,Self-knowledge and embodiment
+P42,Social network use,Instant or easy rewards,Motivation and reward,Distress,Influence from social practices and discourses
+P42,Cognition,Instant or easy rewards,Motivation and reward,Distress,Influence from social practices and discourses
+P43,NA,Physical exercise,NA,NA,Benefits to health
+P44,Addiction,NA,Pleasure,Addiction,Influence from social practices and discourses
+P44,Addiction,NA,Well-being,Addiction,Influence from social practices and discourses
+P45,Negative emotions,Healthy habits,Quality of life,Distress,Habit control and lifestyle
+P46,Health/disease,Behavioral or environmental stimuli,Well-being,Addiction,Habit control and lifestyle
+P47,Neurophysiology,Nutrition,Neurophysiology,Disease,Habit control and lifestyle
+P47,Neurophysiology,Healthy habits,Neurophysiology,Disease,Habit control and lifestyle
+P48,Habits and behavior,Instant or easy rewardss,NA,Agitation,Addiction prevention
+P49,Addiction,Healthy habits,Motivation and reward,Distress,Addiction prevention
+P50,Health/disease,Behavioral or environmental stimuli,Pleasure,Agitation,Scientific information
+P50,Health/disease,Behavioral or environmental stimuli,Motivation and reward,Distress,Scientific information
+P51,Neurophysiology,Healthy habits,Motivation and reward,Distress,Habit control and lifestyle
+P52,Positive emotions,Physical exercise,Well-being,Difficult to obtain,Benefits to health
+P52,Positive emotions,Nutrition,Well-being,Difficult to obtain,Benefits to health
+P53,Positive emotions,Physical exercise,Pleasure,Disease,Habit control and lifestyle
+P53,Cognition,Physical exercise,Well-being,Disease,Habit control and lifestyle
+P54,Neurophysiology,Instant or easy rewardss,Motivation and reward,Distress,Influence from social practices and discourses
+P54,Neurophysiology,Instant or easy rewardss,Pleasure,Distress,Influence from social practices and discourses
+P55,Health/disease,Physical exercise,Well-being,NA,Habit control and lifestyle
+P56,Addiction,Instant or easy rewardss,Well-being,Addiction,Influence from social practices and discourses
+P56,Addiction,Instant or easy rewardss,Motivation and reward,Addiction,Influence from social practices and discourses
